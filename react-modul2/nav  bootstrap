@@ -1,0 +1,30 @@
+NAV PILIHAN
+
+<li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Tutorial
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#">Tutorial HTML</a>
+                  <a class="dropdown-item" href="#">Tutorial CSS</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="#">Tutorial Bootstrap</a>
+                </div>
+              </li>
+
+FORM PENCARIAN
+
+<form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Cari" aria-label="Cari" />
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Cari</button>
+          </form>
+
+
+navbar-light => membuat tulisan navbar berwarna hitam
+navbar-dark => membuat tulisan navbar berwarna putih
+
+bg.info/light/dark/dll => warna navbar
+
+navbar-nav ml-auto => membuat elemen navbar di sebelah kanan
+navbar-nav mr-auto => membuat elemen navbar di sebelah kiri
+
